@@ -1,5 +1,3 @@
-# ChessClock
-ChessClock is an application developed in MIT App Inventor that can manage a real chess clock.
-+------------------------------------------------------------+
-If you want to update my app, you need to use MIT App Inventor: http://ai2.appinventor.mit.edu
-Upload the file .aia and you can apport changes to project.
+# Arduino Star Wars Imperial March
+
+Star Wars Imperial March sounded by a electric piezo
